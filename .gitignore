@@ -1,0 +1,42 @@
+# Front-End ignore files
+/front-end/node_modules
+/front-end/.pnp
+/front-end/.pnp.js
+
+# testing
+/front-end/coverage
+
+# production
+/front-end/build
+
+# misc
+/front-end/.DS_Store
+/front-end/.env.local
+/front-end/.env.development.local
+/front-end/.env.test.local
+/front-end/.env.production.local
+
+/front-end/npm-debug.log*
+/front-end/yarn-debug.log*
+/front-end/yarn-error.log*
+/front-end/package-lock.json
+
+# Back-End ignore files
+/back-end/HELP.md
+/back-end/target/
+/back-end/!.mvn/wrapper/maven-wrapper.jar
+/back-end/!**/src/main/**/target/
+/back-end/!**/src/test/**/target/
+/back-end/HELP.md
+/back-end/mvnw*
+/back-end/.attach*
+
+### STS ###
+/back-end/.apt_generated
+/back-end/.classpath
+/back-end/.factorypath
+/back-end/.project
+/back-end/.settings
+/back-end/.springBeans
+/back-end/.sts4-cache
+/back-end/bin/
